@@ -1,8 +1,18 @@
-# React + Vite
+# Tenzi
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Screenshot](./src/assets/Screenshot.webp)
 
-Currently, two official plugins are available:
+## Description
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The world’s fastest game! Everyone gets ten dice. Someone says, “Go.” Then everyone rolls and rolls as fast as they can until someone gets all their dice on the same number and shouts “TENZI.” Lots of different ways to play. A fun fast frenzy for the whole family!
+
+## Technologies Used
+
+- Vite
+- .jsx
+- JavaScript (ES6)
+- CSS3
+
+## Links
+
+- [Deployed Site](https://tenzi-game.netlify.app/)
