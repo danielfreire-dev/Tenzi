@@ -32,7 +32,8 @@ The world’s fastest game! Everyone gets ten dice. Someone says, “Go.” Then
 
 ## To do list
 
-- Add multiplayer functionality to the game.-
+- Add multiplayer functionality to the game.
+- Add die faces to the dice.
 - Create a scoreboard that keeps track of how many times each player has won.
 - Create a modal that displays when someone wins and shows the winner’s name.
 - Create a modal that displays when someone loses and shows the loser’s name.
