@@ -1,5 +1,7 @@
 import React from "react";
 import Die from "./Components/Die";
+import Footer from "./Components/Footer";
+
 import { nanoid } from "nanoid";
 import Confetti from "react-confetti";
 
@@ -76,6 +78,7 @@ export default function App() {
 			<button className="roll-dice" onClick={rollDice}>
 				{tenzies ? "New Game" : "Roll"}
 			</button>
+			<Footer />
 		</main>
 	);
 }
