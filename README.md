@@ -12,6 +12,7 @@ The world’s fastest game! Everyone gets ten dice. Someone says, “Go.” Then
 - .jsx
 - JavaScript (ES6)
 - CSS3
+- React
 
 ## Links
 
